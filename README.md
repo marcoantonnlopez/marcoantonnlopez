@@ -19,10 +19,10 @@ Immersed in the galaxy of technology, I've honed skills in:
 4. [SkinScan](link to the project) - Aiding in early skin cancer detection.
 
 ## 📈 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcolopez&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoantonnlopez&show_icons=true)
 
 ## 🤝 Contact
-If you're looking to explore the stars together, or just want to chat, you can find me on [LinkedIn](link to your LinkedIn profile), [Instagram](link to your Instagram profile), and check out my [YouTube channel](link to your YouTube channel). You can also email me at your_email@example.com.
+If you're looking to explore the stars together, or just want to chat, you can find me on [LinkedIn](https://www.linkedin.com/in/marco-antonn/), [Instagram](https://www.instagram.com/marco_antonn/), and check out my [YouTube channel](https://www.youtube.com/channel/UC3vGctg61euGTFEPMGQX2Ow). You can also email me at marcoantonnlopez@example.com.
 
 ## 🌍 Contributions
 I'm constantly on the lookout for opportunities to contribute to open-source projects and make an impact within the community. Feel free to reach out if you think I can be of help!
